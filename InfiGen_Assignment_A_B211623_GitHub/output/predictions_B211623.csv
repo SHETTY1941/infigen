@@ -1,0 +1,101 @@
+unique_id,Source,Drugs,Diseases,Study_Names,Topic,Sentiment
+Ascopost_51_Q2_2024,Media,,breast cancer,,Others,Neutral
+Ascopost_267_Q2_2024,Media,trastuzumab; palbociclib,"breast cancer; HER2-positive breast cancer; estrogen receptor–positive, HER2-negative breast cancer; colorectal cancer; cancer",,General Opinion,Positive
+CancerNetwork_90_Q2_2024,Media,nivolumab; gemcitabine; cisplatin; Opdivo; avelumab; Bavencio,advanced urothelial carcinoma; urothelial carcinoma; metastatic urothelial carcinoma,CheckMate-901,Overall Survival (OS),Positive
+MedScape_50_Q2_2024,Media,atezolizumab; nab-paclitaxel; carboplatin; gemcitabine; capecitabine,triple-negative breast cancer; TNBC; locally advanced or metastatic TNBC; early TNBC,IMpassion132; IMpassion130,Overall Survival (OS),Negative
+MedScape_98_Q2_2024,Media,datopotamab deruxtecan; Dato-DXd; eribulin mesylate; vinorelbine; gemcitabine; capecitabine; trastuzumab deruxtecan; trastuzumab; lapatinib; trastuzumab emtansine; T-DM1; sacituzumab govitecan; sacituzumab tirumotecan,metastatic breast cancer; breast cancer; metastatic hormone receptor–positive (HR+)/HER2− breast cancer; HR+/HER2− breast cancer; HER2+ metastatic breast cancer; HR+/HER2− metastatic breast cancer,TROPION-Breast01; DESTINY-Breast02; DESTINY-Breast-02; TROPiCS-02; EVER-132-002,Safety-Side Effects,Positive
+MedScape_103_Q2_2024,Media,atezolizumab; nab-paclitaxel; carboplatin; gemcitabine; capecitabine,triple-negative breast cancer; TNBC; locally advanced or metastatic TNBC; early TNBC,IMpassion132; IMpassion130,Overall Survival (OS),Negative
+MedScape_123_Q2_2024,Media,,breast cancer,,Others,Negative
+MedScape_218_Q2_2024,Media,GLP-1 agonists,breast cancer; early breast cancer; receptor–positive breast cancer; triple-negative breast cancer,RxPONDER; A-BRAVE,Efficacy-General,Positive
+Onclive_56_Q2_2024,Media,datopotamab deruxtecan; Dato-DXd; platinum-based therapy,advanced non-small cell lung cancer; metastatic non-small cell lung cancer; NSCLC; brain metastases,TROPION-Lung05; NCT04484142; 2024 ASCO Annual Meeting; TUXEDO-2; NCT05866432; DATO-BASE; NCT06176261,Efficacy-General,Positive
+Onclive_59_Q2_2024,Media,nivolumab; Opdivo; chemotherapy; ipilimumab; Yervoy; platinum; cisplatin; carboplatin,resectable non-small cell lung cancer; NSCLC; lung cancer,CheckMate 816; NCT02998528; 2024 ASCO Annual Meeting; 2023 European Lung Cancer Congress; ADAURA; NCT02511106,Overall Survival (OS),Positive
+Onclive_318_Q2_2024,Media,capivasertib; Truqap; fulvestrant; Faslodex; chemotherapy; aromatase inhibitor; selective estrogen receptor degraders; mTOR inhibitors; PI3K inhibitors; AKT inhibitors; CDK4/6 inhibitors; insulin,"HR-positive, HER2-negative advanced breast cancer; locally advanced or metastatic breast cancer; breast cancer; liver metastases; diabetes",CAPItello-291; NCT04305496; 2024 ESMO Breast Cancer Congress,Progression Free Survival (PFS),Positive
+Onclive_387_Q2_2024,Media,abemaciclib; Verzenio; fulvestrant; Faslodex; CDK4/6 inhibitor; endocrine therapy; aromatase inhibitor,"HR+/HER2– breast cancer; hormone receptor–positive, HER2-negative advanced breast cancer; advanced breast cancer; visceral metastasis",postMONARCH; NCT05169567; 2024 ASCO Annual Meeting; MAINTAIN; NCT05207709; PALMIRA; NCT03809988; PACE; NCT03147287,Progression Free Survival (PFS),Positive
+Onclive_641_Q2_2024,Media,nivolumab; Opdivo; cisplatin; gemcitabine; chemotherapy,unresectable or metastatic urothelial carcinoma; urothelial cancer; liver metastases,CheckMate 901; NCT03036098; 2023 ESMO Congress,Efficacy-General,Positive
+Onclive_644_Q2_2024,Media,nivolumab; Opdivo; cabozantinib; Cometriq; VEGF inhibitor; mTOR inhibitor; chemotherapy,non-clear cell renal cell carcinoma; non-clear cell RCC; metastatic non-clear cell RCC; papillary RCC; unclassified RCC; translocation-associated RCC; chromophobe RCC; hypertension; diarrhea; palmar-plantar erythrodysesthesia syndrome; nausea,NCT03635892,Efficacy-General,Positive
+Onclive_860_Q2_2024,Media,PARP inhibitors,ovarian cancer; epithelial ovarian cancer; gynecologic cancer,2024 SGO Annual Meeting on Women’s Cancer; MSK-IMPACT,Others,Positive
+Onclive_1056_Q2_2024,Media,pembrolizumab; Keytruda; dostarlimab-gxly; Jemperli; carboplatin; paclitaxel; dostarlimab; lenvatinib; Lenvima; doxorubicin; chemotherapy,endometrial cancer; endometrial carcinoma; Lynch syndrome; solid tumors,KEYNOTE-028; NCT02054806; KEYNOTE-158; NCT02628067; RUBY; NCT03981796; KEYNOTE-146; Study 111; NCT02501096; KEYNOTE-775; NCT03517449,Efficacy-General,Positive
+Onclive_1282_Q2_2024,Media,durvalumab; olaparib; carboplatin; paclitaxel; Imfinzi; Lynparza; chemotherapy,endometrial cancer; advanced or recurrent endometrial cancer,DUO-E; NCT04269200,Progression Free Survival (PFS),Positive
+Onclive_1457_Q2_2024,Media,trastuzumab; Herceptin; pertuzumab; Perjeta; pembrolizumab; Keytruda; taxane; anthracycline; fam-trastuzumab deruxtecan-nxki; Enhertu,HER2-positive breast cancer; triple-negative breast cancer; TNBC; breast cancer,,General Opinion,Positive
+TargetedOncology_2_Q2_2024,Media,CDK4/6 inhibitors; aromatase inhibitors; abemaciclib; Verzenio; palbociclib; Ibrance; ribociclib; Kisqali; fulvestrant; Faslodex; letrozole; Femara; hormone therapy; chemotherapy; alpelisib; Piqray; capivasertib; inavolisib; elacestrant; Orserdu; camizestrant; giredestrant; imlunestrant,"HR-positive, HER2-negative breast cancer; advanced or metastatic breast cancer; ESR1 mutations; breast cancer; metastatic disease",PALOMA-2; NCT01740427; MONALEESA; NCT01958021; NCT02278120; NCT02422615; MONARCH; NCT02246621; NCT02107703; PARSIFAL; NCT02491983; PEARL; NCT02028507; Young Pearl; NCT02592746; MAINTAIN; NCT02632045; postMONARCH; NCT05169567; SOLAR-1; NCT02437318; CAPItello-291; NCT04305496; INAVO120; NCT04191499; EMERALD; NCT03778931,Efficacy-General,Positive
+TargetedOncology_278_Q2_2024,Media,zanidatamab; ZW25; FOLFOX; chemotherapy,HER2-positive biliary tract cancer; biliary tract cancer; BTC,HERIZON-BTC-01; NCT04466891,Efficacy-General,Positive
+TargetedOncology_339_Q2_2024,Media,cretostimogene grenadenorepvec; cretostimogene; Bacillus Calmette-Guérin; BCG; pembrolizumab; Keytruda,non-muscle-invasive bladder cancer; NMIBC; carcinoma in situ; CIS; bladder cancer; papillary disease,BOND-003; NCT04452591,Efficacy-General,Positive
+TargetedOncology_532_Q2_2024,Media,osimertinib; Tagrisso; durvalumab; Imfinzi; chemotherapy,non–small cell lung cancer; NSCLC; lung cancer; stage III NSCLC,LAURA; NCT03521154; PACIFIC; NCT02125461,Progression Free Survival (PFS),Positive
+TargetedOncology_665_Q2_2024,Media,osimertinib; Tagrisso; durvalumab; Imfinzi; chemotherapy,non–small cell lung cancer; NSCLC; lung cancer; stage III NSCLC,LAURA; NCT03521154; PACIFIC; NCT02125461,Progression Free Survival (PFS),Positive
+Urology Today_35_Q2_2024,Media,,bladder cancer; urologic malignancy,,Others,Neutral
+Urology Today_179_Q2_2024,Media,Gemcitabine-releasing Intravesical System; TAR-200; gemcitabine,intermediate-risk non-muscle-invasive bladder cancer; non-muscle-invasive bladder cancer; IR NMIBC; bladder cancer; bladder tumour; urgency; dysuria; haematuria; urinary urgency,NCT02720367,Safety-General,Positive
+Urology Today_226_Q2_2024,Media,pembrolizumab; platinum-based chemotherapy,upper tract urothelial carcinoma; UTUC; urothelial carcinomas; UCs; metastatic UTUC; hepatic metastases,ARON-2; NCT05290038,Efficacy-General,Positive
+Urology Today_270_Q2_2024,Media,BCG; pembrolizumab; Adstiladrin; Anktiva; ANKTIVA; TAR-200; cretostimogene; nadofaragene; gemcitabine; docetaxel; gemcitabine-docetaxel; NAI; Lengene,BCG-unresponsive bladder cancer; bladder cancer; high-grade Ta; high-grade T1; muscle-invasive disease; CIS; non-muscle invasive bladder cancer,,General Opinion,Positive
+Urology Today_317_Q2_2024,Media,cisplatin; neoadjuvant chemotherapy; cisplatin-based neoadjuvant chemotherapy; EV Pembro; immunotherapy,muscle invasive bladder cancer; bladder cancer; N3 disease; N1 nodes; pelvic lymph node recurrence; local pelvic recurrence,SWOG 1011; German LEA trial; LEA trial; SN11,General Opinion,Neutral
+Urology Today_350_Q2_2024,Media,PARP inhibitors; immunotherapy,prostate cancer; advanced prostate cancer; metastatic disease,,Others,Neutral
+Urology Today_461_Q2_2024,Media,BCG,non-muscle invasive bladder cancer; bladder tumor; high-grade Ta; T1 disease; CIS; intermediate risk non-muscle invasive bladder cancer; muscle invasive bladder cancer; prostate cancer; bladder cancer,EB-StaR study; EB-StaR; modified ERBT study; NCT04081246,General Opinion,Neutral
+Urology Today_482_Q2_2024,Media,avelumab; platinum-based chemotherapy; cisplatin; carboplatin; gemcitabine; cisplatin + gemcitabine; carboplatin + gemcitabine,invasive bladder cancer; advanced urothelial carcinoma; urothelial carcinoma; locally advanced urothelial carcinoma; metastatic urothelial carcinoma,JAVELIN Bladder 100,Overall Survival (OS),Positive
+Healio_30_Q2_2024,Media,,breast cancer; prostate cancer,,Others,Positive
+Healio_43_Q2_2024,Media,huCART19-IL18; interleukin-18; IL-18,lymphoma; non-Hodgin lymphoma; non-Hodgkin lymphoma; CD19-positive B-cell malignancies; diffuse large B-cell lymphoma,Abstract 7004,Efficacy-General,Positive
+Healio_163_Q2_2024,Media,huCART19-IL18; interleukin-18; IL-18,lymphoma; non-Hodgin lymphoma; non-Hodgkin lymphoma; CD19-positive B-cell malignancies; diffuse large B-cell lymphoma,Abstract 7004,Efficacy-General,Positive
+Healio_210_Q2_2024,Media,,cancer; breast cancer,,Others,Positive
+Pubmed_137_Q2_2024,Media,Methotrexate; Vinblastine; Doxorubicin; Cisplatin,bladder cancer; urothelial carcinoma,"Accelerated Methotrexate, Vinblastine, Doxorubicin, Cisplatin trial; NCT01611662; The pT0 trial; NCT02968732",Others,Positive
+Google Scholar_3_Q2_2024,Media,chemotherapy,stage I triple-negative breast cancer; triple-negative breast cancer; TNBC; stage I TNBC,Netherlands Cancer Registry,Others,Neutral
+Google Scholar_316_Q2_2024,Media,,hormone receptor− positive/human epidermal growth factor receptor 2− negative early breast cancer; early breast cancer; HR+/HER2− EBC; EBC; breast cancer,Abstract PO1-17-07; ConcertAI Patient360 database,Overall Survival (OS),Neutral
+Semantic Scholar_36_Q2_2024,Media,,breast cancer,RxPONDER trial; NCT01272037,Others,Neutral
+Semantic Scholar_176_Q2_2024,Media,,breast cancer; triple negative breast cancer; TNBC; insulin resistance; diabetes,Abstract PO5-09-11,Others,Neutral
+Pubmed_399_Q2_2024_Non-KI,Media,,cancer,,Others,Neutral
+Pubmed_1359_Q2_2024_Non-KI,Media,Osimertinib; Durvalumab; EGFR tyrosine kinase inhibitors,NSCLC; stage III NSCLC; EGFR-mutant NSCLC; pneumonitis; diarrhea,,Progression Free Survival (PFS),Positive
+Pubmed_2314_Q2_2024_Non-KI,Media,,Prostate Cancer; genitourinary toxicity,MIRAGE; MIRAGE Phase 3 Randomized Trial; NCT04384770,Safety-Side Effects,Positive
+Semantic Scholar_565_Q2_2024_Non-KI,Media,RAF inhibitors; PF-07799933; ARRY-440; binimetinib; BRAF inhibitor,BRAF-mutant cancer; BRAF-mutant solid tumors; solid tumors,NCT05355701,Efficacy-General,Positive
+Semantic Scholar_1649_Q2_2024_Non-KI,Media,targeted therapies,cancer; GI cancer; head/neck cancer; breast cancer,,Others,Negative
+Semantic Scholar_1903_Q2_2024_Non-KI,Media,Immune checkpoint inhibitors; ICIs,non–small cell lung cancer; NSCLC; lung cancer,,Progression Free Survival (PFS),Positive
+Semantic Scholar_2330_Q2_2024_Non-KI,Media,,lung cancer; pan-solid tumors; breast cancer; lymphoma; colorectal cancer; prostate cancer; gynecologic cancer; bladder cancer; head and neck cancer; melanoma; solid tumors,OncoTrials,Others,Neutral
+Pubmed_719_Q2_2024_Non-KI,Media,enfortumab vedotin; pembrolizumab; platinum-based chemotherapy,metastatic urothelial carcinoma; rash; peripheral neuropathy,EV-103; EV-103 phase Ib/II trial,General Opinion,Positive
+Semantic Scholar_98_Q2_2024_Non-KI,Media,immune checkpoint inhibitors; ICI,metastatic renal cell carcinoma; mRCC,,Others,Neutral
+Semantic Scholar_495_Q2_2024_Non-KI,Media,,,,Others,Positive
+Twitter_2185_Q2_2024,Twitter,,,,General Opinion,Positive
+Twitter_2300_Q2_2024,Twitter,,,SURae-01,General Opinion,Positive
+Twitter_2352_Q2_2024,Twitter,,,,General Opinion,Positive
+Twitter_2968_Q2_2024,Twitter,fulvestrant; ET,,,General Opinion,Neutral
+Twitter_3680_Q2_2024,Twitter,ADC,,,General Opinion,Positive
+Twitter_5142_Q2_2024,Twitter,,,,General Opinion,Neutral
+Twitter_5686_Q2_2024,Twitter,,,,General Opinion,Positive
+Twitter_5824_Q2_2024,Twitter,ET,basal tumors; tumors,,General Opinion,Neutral
+Twitter_6780_Q2_2024,Twitter,T-DXd; chemo; SG,HER2-low; advanced HR+/HER2-,DESTINY-Breast04,Overall Survival (OS),Positive
+Twitter_6801_Q2_2024,Twitter,,cancer,,General Opinion,Positive
+Twitter_7654_Q2_2024,Twitter,,,,General Opinion,Positive
+Twitter_8056_Q2_2024,Twitter,,,,General Opinion,Positive
+Twitter_8389_Q2_2024,Twitter,HER2 blockade,HER2- disease; HER2+ breast cancer,ABC trials,Efficacy-General,Neutral
+Twitter_8828_Q2_2024,Twitter,,,,General Opinion,Positive
+Twitter_9067_Q2_2024,Twitter,,breast cancer,,General Opinion,Positive
+Twitter_1244_Q2_2024_Non-KI,Twitter,chemo; CRT; IO,,NRG GI 002,Efficacy-General,Neutral
+Twitter_3182_Q2_2024_Non-KI,Twitter,,,EV 302,Efficacy-General,Positive
+Twitter_3826_Q2_2024_Non-KI,Twitter,TKIs; IO,,,Safety-General,Positive
+Twitter_4059_Q2_2024_Non-KI,Twitter,,,,General Opinion,Positive
+Twitter_4913_Q2_2024_Non-KI,Twitter,,,,Others,Neutral
+Twitter_9100_Q2_2024_Non-KI,Twitter,,,,General Opinion,Negative
+Twitter_10382_Q2_2024_Non-KI,Twitter,,,,General Opinion,Positive
+Twitter_10516_Q2_2024_Non-KI,Twitter,,,,General Opinion,Positive
+Twitter_12859_Q2_2024_Non-KI,Twitter,,,,Others,Neutral
+Twitter_13363_Q2_2024_Non-KI,Twitter,,,,General Opinion,Positive
+Twitter_14232_Q2_2024_Non-KI,Twitter,,,,General Opinion,Positive
+Twitter_14293_Q2_2024_Non-KI,Twitter,,,,Others,Positive
+Twitter_15722_Q2_2024_Non-KI,Twitter,,ILD,,Safety-Side Effects,Neutral
+Twitter_16881_Q2_2024_Non-KI,Twitter,,bladder cancer,A0312103/MODERN,General Opinion,Positive
+Twitter_16955_Q2_2024_Non-KI,Twitter,Ami; chemo,,MARIPOSA; MARIPOSA2; HERTHENALung02,Efficacy-General,Neutral
+Twitter_17048_Q2_2024_Non-KI,Twitter,FLOT; chemoradiation; Fruquintinib; Taxol,adenocarcinoma of the esophagus; gastric; GEJ,ESPOC; CROSS; FRUTIGA,Efficacy-General,Positive
+Twitter_17448_Q2_2024_Non-KI,Twitter,,,,Safety-General,Positive
+Twitter_18016_Q2_2024_Non-KI,Twitter,,,,General Opinion,Negative
+Twitter_19312_Q2_2024_Non-KI,Twitter,,,,General Opinion,Positive
+Twitter_20689_Q2_2024_Non-KI,Twitter,sacituzumab govitecan,,,Efficacy-General,Neutral
+Twitter_20727_Q2_2024_Non-KI,Twitter,chemotherapy; FFX; NAC; gem; cape; RT,,,Efficacy-General,Neutral
+Twitter_22694_Q2_2024_Non-KI,Twitter,CDK4/6 inhibitors; Abmea; AI; T-DXd,,DB06,Efficacy-General,Positive
+Twitter_24021_Q2_2024_Non-KI,Twitter,chemotherapy; immunotherapy; EV; Pembro,,,Efficacy-General,Positive
+Twitter_25243_Q2_2024_Non-KI,Twitter,,virally driven tumors,,General Opinion,Positive
+Twitter_25980_Q2_2024_Non-KI,Twitter,Ibrance; Aromasin,"metastatic, hormone- receptor positive, HER2-negative breast cancer",Young-PEARL,Progression Free Survival (PFS),Positive
+Twitter_26758_Q2_2024_Non-KI,Twitter,,NSCLC,,Others,Positive
+Twitter_26964_Q2_2024_Non-KI,Twitter,,,,Others,Positive
+Twitter_33796_Q2_2024_Non-KI,Twitter,,,,Others,Neutral
+Twitter_35103_Q2_2024_Non-KI,Twitter,,,,Others,Neutral
+Twitter_35633_Q2_2024_Non-KI,Twitter,Elacestrant,ESR1 mutations,EMERALD,Progression Free Survival (PFS),Positive
+Twitter_36260_Q2_2024_Non-KI,Twitter,,,alliance a11202,General Opinion,Positive
+Twitter_36816_Q2_2024_Non-KI,Twitter,Opdivo; Platinum; Gem; EV; Pembro,,,General Opinion,Neutral
+Twitter_37972_Q2_2024_Non-KI,Twitter,,breast cancer,,Others,Negative
+Twitter_38551_Q2_2024_Non-KI,Twitter,saci,,,General Opinion,Neutral
+Twitter_38959_Q2_2024_Non-KI,Twitter,Chemo,,,Efficacy-General,Positive

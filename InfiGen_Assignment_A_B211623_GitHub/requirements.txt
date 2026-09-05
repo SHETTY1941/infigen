@@ -1,0 +1,5 @@
+pandas
+openpyxl
+pydantic
+tqdm
+google-genai>=2.3.0

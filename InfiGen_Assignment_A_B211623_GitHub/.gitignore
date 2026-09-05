@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+
+# Local/generated checkpoints
+predictions_*_checkpoint.csv
+failed_records_*.csv
+
+# OS
+.DS_Store
+Thumbs.db
